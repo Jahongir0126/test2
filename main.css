@@ -1,0 +1,16 @@
+blockquote{background-color: #E8796D;
+text-align: center; } 
+
+h1{color: white;}
+.umumiy{margin-left:122px;list-style: none ; display:flex;}
+ .bolaklar{ width: 250px; margin-left: 0px; margin-right:34px;
+    list-style: none ;
+     } 
+
+/* li{text-align: center;} */
+p{color: #EB5757; text-align: center;}
+.birinchi{color: black;}
+.qalin{font-size: large; color: black; }
+.bolak1{ height: 170px; background-color: white;margin-top: 120px; margin-right: 10px; text-align: center; border-radius: 10px; margin margin-left: ;}
+.bolak2{height: 230px;background-color: white;margin-top: 60px;margin-right: 10px; text-align: center; border-radius: 10px;}
+.bolak3{height: 270px;background-color: white;margin-top: 20px; margin-right: 10px; text-align: center; border-radius: 10px;}
